@@ -3,6 +3,8 @@
 ## Motivation
 I encountered an advertisement for review stuffing services, and thought it would be fun to check whether such services could conceivably have an impact on actual business. At that time, I was pursuing a Udacity Data Scientist nanodegree, and the project synergised well with a an AirBnB dataset I was playing around with. 
 
+I have a blog post on this [here](https://link.medium.com/B1opXtwtZ9), if you want to read more. 
+
 ### Key Questions Asked :  
 The review stuffing service provided "guaranteed SuperHost status" along with "hundreds of 5 start reviews". So, my questions 
 
